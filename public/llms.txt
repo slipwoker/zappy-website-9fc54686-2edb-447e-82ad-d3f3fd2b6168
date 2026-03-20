@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+GTIM GROUP redefines luxury living with premium craftsmanship and timeless design. Discover furniture that transforms every room into a masterpiece. Shop now.
+
+### About
+https://example.com/about
+Meet the visionaries behind GTIM GROUP — where furniture manufacturers blend artistry with precision. Our story is one of passion, refinement, and unmatched quality. Learn more.
+
+### Collections
+https://example.com/collections
+Explore GTIM GROUP&#39;s exclusive luxury furniture collections — each piece built by expert custom cabinet makers to perfection. Find your signature style and own it today.
+
+### Contact
+https://example.com/contact
+Need furniture removal companies or ready to commission a bespoke piece? Connect with GTIM GROUP&#39;s experts and let us craft the perfect luxury solution for your space.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
